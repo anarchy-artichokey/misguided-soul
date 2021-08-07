@@ -1,3 +1,6 @@
+
+[Home](https://anarchy-artichokey.github.io) > The Cat's Gone
+
 # The Cat's Gone
 ![Image](assets/images/thecatsgonetitleteaser.png)
 ## Developed by Ardicuno and TinyDogMaster77
